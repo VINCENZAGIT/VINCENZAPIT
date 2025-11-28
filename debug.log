@@ -1,0 +1,1151 @@
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+Emails promocionais: false
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências carregadas: Array
+(
+    [id] => 1
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+Emails promocionais: false
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências carregadas: Array
+(
+    [id] => 1
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => true
+    [tipos_email] => ofertas,novidades,financiamento,eventos
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+    [0] => ofertas
+    [1] => novidades
+    [2] => financiamento
+    [3] => eventos
+)
+
+Resultado salvamento: sucesso
+Preferências carregadas: Array
+(
+    [id] => 1
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => true
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências carregadas: Array
+(
+    [id] => 1
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+Preferências carregadas: Array
+(
+    [id] => 1
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => true
+    [tipos_email] => financiamento,eventos
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+    [0] => financiamento
+    [1] => eventos
+)
+
+Resultado salvamento: sucesso
+Preferências carregadas: Array
+(
+    [id] => 1
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+Emails promocionais: false
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências carregadas: Array
+(
+    [id] => 1
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+Preferências carregadas: Array
+(
+    [id] => 1
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+Emails promocionais: false
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências carregadas: Array
+(
+    [id] => 1
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+Preferências do banco: Array
+(
+    [id] => 1
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+Emails promocionais: false
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 1
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => true
+    [tipos_email] => ofertas,novidades,eventos
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+    [0] => ofertas
+    [1] => novidades
+    [2] => eventos
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 1
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+Preferências do banco: Array
+(
+    [id] => 15
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades", "eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades", "eventos"]
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+Emails promocionais: false
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 15
+    [usuario_id] => 7
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => true
+    [tipos_email] => novidades,financiamento
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+    [0] => novidades
+    [1] => financiamento
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 15
+    [usuario_id] => 7
+    [emails_promocionais] => 1
+    [tipos_email] => ["novidades", "financiamento"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["novidades", "financiamento"]
+POST data: Array
+(
+    [nome] => saimon
+    [email] => samuelmacedoalves39@gmail.com
+    [telefone] => 31999524488
+    [data_nascimento] => 2004-08-23
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 7
+    [usuario_nome] => saimon
+    [usuario_email] => samuelmacedoalves39@gmail.com
+)
+
+Emails promocionais: false
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 15
+    [usuario_id] => 7
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+Preferências do banco: Array
+(
+    [id] => 15
+    [usuario_id] => 7
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+Preferências do banco: Array
+(
+    [id] => 15
+    [usuario_id] => 7
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+Preferências do banco: Array
+(
+    [id] => 16
+    [usuario_id] => 8
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+POST data: Array
+(
+    [nome] => carlo
+    [email] => carlo@gmail.com.br
+    [telefone] => 31998732
+    [data_nascimento] => 1899-12-12
+    [emails_promocionais] => true
+    [tipos_email] => ofertas,novidades,financiamento,eventos
+)
+
+Session: Array
+(
+    [usuario_id] => 8
+    [usuario_nome] => carlo
+    [usuario_email] => carlo@gmail.com.br
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+    [0] => ofertas
+    [1] => novidades
+    [2] => financiamento
+    [3] => eventos
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 16
+    [usuario_id] => 8
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades", "financiamento", "eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades", "financiamento", "eventos"]
+POST data: Array
+(
+    [nome] => carlo
+    [email] => carlo@gmail.com.br
+    [telefone] => 31998732
+    [data_nascimento] => 1899-12-12
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 8
+    [usuario_nome] => carlo
+    [usuario_email] => carlo@gmail.com.br
+)
+
+Emails promocionais: false
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 16
+    [usuario_id] => 8
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+Preferências do banco: 
+emails_promocionais value: null
+tipos_email raw: null
+POST data: Array
+(
+    [nome] => justin
+    [email] => justin@gmail.com.br
+    [telefone] => 21445567
+    [data_nascimento] => 1876-11-12
+    [emails_promocionais] => true
+    [tipos_email] => eventos
+)
+
+Session: Array
+(
+    [usuario_id] => 6
+    [usuario_nome] => justin
+    [usuario_email] => justin@gmail.com.br
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+    [0] => eventos
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 17
+    [usuario_id] => 6
+    [emails_promocionais] => 1
+    [tipos_email] => ["eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["eventos"]
+Preferências do banco: Array
+(
+    [id] => 17
+    [usuario_id] => 6
+    [emails_promocionais] => 1
+    [tipos_email] => ["eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["eventos"]
+Preferências do banco: Array
+(
+    [id] => 17
+    [usuario_id] => 6
+    [emails_promocionais] => 1
+    [tipos_email] => ["eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["eventos"]
+Preferências do banco: Array
+(
+    [id] => 17
+    [usuario_id] => 6
+    [emails_promocionais] => 1
+    [tipos_email] => ["eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["eventos"]
+Preferências do banco: Array
+(
+    [id] => 17
+    [usuario_id] => 6
+    [emails_promocionais] => 1
+    [tipos_email] => ["eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["eventos"]
+Preferências do banco: Array
+(
+    [id] => 17
+    [usuario_id] => 6
+    [emails_promocionais] => 1
+    [tipos_email] => ["eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["eventos"]
+POST data: Array
+(
+    [nome] => justin
+    [email] => justin@gmail.com.br
+    [telefone] => 21445567
+    [data_nascimento] => 1876-11-12
+    [emails_promocionais] => true
+    [tipos_email] => ofertas,novidades,financiamento,eventos
+)
+
+Session: Array
+(
+    [usuario_id] => 6
+    [usuario_nome] => justin
+    [usuario_email] => justin@gmail.com.br
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+    [0] => ofertas
+    [1] => novidades
+    [2] => financiamento
+    [3] => eventos
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 17
+    [usuario_id] => 6
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades", "financiamento", "eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades", "financiamento", "eventos"]
+POST data: Array
+(
+    [nome] => justin
+    [email] => justin@gmail.com.br
+    [telefone] => 21445567
+    [data_nascimento] => 1876-11-12
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 6
+    [usuario_nome] => justin
+    [usuario_email] => justin@gmail.com.br
+)
+
+Emails promocionais: false
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 17
+    [usuario_id] => 6
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+Preferências do banco: Array
+(
+    [id] => 17
+    [usuario_id] => 6
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+POST data: Array
+(
+    [nome] => justin
+    [email] => justin@gmail.com.br
+    [telefone] => 21445567
+    [data_nascimento] => 1876-11-12
+    [emails_promocionais] => true
+    [tipos_email] => financiamento,eventos
+)
+
+Session: Array
+(
+    [usuario_id] => 6
+    [usuario_nome] => justin
+    [usuario_email] => justin@gmail.com.br
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+    [0] => financiamento
+    [1] => eventos
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 17
+    [usuario_id] => 6
+    [emails_promocionais] => 1
+    [tipos_email] => ["financiamento", "eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["financiamento", "eventos"]
+Preferências do banco: Array
+(
+    [id] => 20
+    [usuario_id] => 11
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+POST data: Array
+(
+    [nome] => manuela
+    [email] => manu@gmail.com
+    [telefone] => 31422465
+    [data_nascimento] => 2006-11-02
+    [emails_promocionais] => true
+    [tipos_email] => ofertas,novidades,financiamento,eventos
+)
+
+Session: Array
+(
+    [usuario_id] => 11
+    [usuario_nome] => manuela
+    [usuario_email] => manu@gmail.com
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+    [0] => ofertas
+    [1] => novidades
+    [2] => financiamento
+    [3] => eventos
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 20
+    [usuario_id] => 11
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades", "financiamento", "eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades", "financiamento", "eventos"]
+POST data: Array
+(
+    [nome] => manuela
+    [email] => manu@gmail.com
+    [telefone] => 31422465
+    [data_nascimento] => 2006-11-02
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 11
+    [usuario_nome] => manuela
+    [usuario_email] => manu@gmail.com
+)
+
+Emails promocionais: false
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 20
+    [usuario_id] => 11
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+Preferências do banco: Array
+(
+    [id] => 20
+    [usuario_id] => 11
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+POST data: Array
+(
+    [nome] => manuela
+    [email] => manu@gmail.com
+    [telefone] => 31422465
+    [data_nascimento] => 2006-11-02
+    [emails_promocionais] => true
+    [tipos_email] => financiamento,eventos
+)
+
+Session: Array
+(
+    [usuario_id] => 11
+    [usuario_nome] => manuela
+    [usuario_email] => manu@gmail.com
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+    [0] => financiamento
+    [1] => eventos
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 20
+    [usuario_id] => 11
+    [emails_promocionais] => 1
+    [tipos_email] => ["financiamento", "eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["financiamento", "eventos"]
+Preferências do banco: Array
+(
+    [id] => 21
+    [usuario_id] => 12
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+Preferências do banco: Array
+(
+    [id] => 22
+    [usuario_id] => 13
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+Preferências do banco: Array
+(
+    [id] => 22
+    [usuario_id] => 13
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+POST data: Array
+(
+    [nome] => clark
+    [email] => clark@gmail.com
+    [telefone] => 31998358444
+    [data_nascimento] => 1998-09-12
+    [emails_promocionais] => true
+    [tipos_email] => ofertas,novidades,financiamento,eventos
+)
+
+Session: Array
+(
+    [usuario_id] => 13
+    [usuario_nome] => clark
+    [usuario_email] => clark@gmail.com
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+    [0] => ofertas
+    [1] => novidades
+    [2] => financiamento
+    [3] => eventos
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 22
+    [usuario_id] => 13
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades", "financiamento", "eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades", "financiamento", "eventos"]
+POST data: Array
+(
+    [nome] => clark
+    [email] => clark@gmail.com
+    [telefone] => 31998358444
+    [data_nascimento] => 1998-09-12
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 13
+    [usuario_nome] => clark
+    [usuario_email] => clark@gmail.com
+)
+
+Emails promocionais: false
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 22
+    [usuario_id] => 13
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+Preferências do banco: Array
+(
+    [id] => 22
+    [usuario_id] => 13
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+Preferências do banco: Array
+(
+    [id] => 20
+    [usuario_id] => 11
+    [emails_promocionais] => 1
+    [tipos_email] => ["financiamento", "eventos"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["financiamento", "eventos"]
+Preferências do banco: Array
+(
+    [id] => 23
+    [usuario_id] => 14
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+Preferências do banco: Array
+(
+    [id] => 23
+    [usuario_id] => 14
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+Preferências do banco: Array
+(
+    [id] => 23
+    [usuario_id] => 14
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+Preferências do banco: Array
+(
+    [id] => 23
+    [usuario_id] => 14
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+POST data: Array
+(
+    [nome] => gabriel
+    [email] => gabriel@gmail.com
+    [telefone] => 31334343434
+    [data_nascimento] => 2021-09-12
+    [emails_promocionais] => true
+    [tipos_email] => ofertas,novidades
+)
+
+Session: Array
+(
+    [usuario_id] => 14
+    [usuario_nome] => gabriel
+    [usuario_email] => gabriel@gmail.com
+)
+
+Emails promocionais: true
+Tipos email: Array
+(
+    [0] => ofertas
+    [1] => novidades
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 24
+    [usuario_id] => 14
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+Preferências do banco: Array
+(
+    [id] => 24
+    [usuario_id] => 14
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+Preferências do banco: Array
+(
+    [id] => 24
+    [usuario_id] => 14
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+Preferências do banco: Array
+(
+    [id] => 24
+    [usuario_id] => 14
+    [emails_promocionais] => 1
+    [tipos_email] => ["ofertas", "novidades"]
+)
+
+emails_promocionais value: 1
+tipos_email raw: ["ofertas", "novidades"]
+POST data: Array
+(
+    [nome] => gabriel
+    [email] => gabriel@gmail.com
+    [telefone] => 31334343434
+    [data_nascimento] => 2021-09-12
+    [emails_promocionais] => false
+    [tipos_email] => 
+)
+
+Session: Array
+(
+    [usuario_id] => 14
+    [usuario_nome] => gabriel
+    [usuario_email] => gabriel@gmail.com
+)
+
+Emails promocionais: false
+Tipos email: Array
+(
+)
+
+Resultado salvamento: sucesso
+Preferências do banco: Array
+(
+    [id] => 24
+    [usuario_id] => 14
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+Preferências do banco: Array
+(
+    [id] => 24
+    [usuario_id] => 14
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
+Preferências do banco: Array
+(
+    [id] => 24
+    [usuario_id] => 14
+    [emails_promocionais] => 0
+    [tipos_email] => []
+)
+
+emails_promocionais value: 0
+tipos_email raw: []
