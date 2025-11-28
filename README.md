@@ -44,7 +44,7 @@ RF14
 Visualização 360° de todos os carros mais buscados. ✦ (360 dos carros em todas as páginas)
 
 RF15
-Página de oferta de veículos (incompleto)
+Página de oferta de veículos ❌
 
 RF16
 Reserva online de veículos✅
